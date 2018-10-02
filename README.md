@@ -1,0 +1,1 @@
+This repository contains code for the components that I worked on and were incorporated in Innerve's (Technical Fest of Indira Gandhi Delhi Technical University For Women) website. I primarily worked on the events page and the main page. 
